@@ -15,7 +15,7 @@
  */
 @Version("1.0")
 @Export(optional = "provide:=true")
-package kp-fed-training.core;
+package kpfedtraining.core;
 
 import aQute.bnd.annotation.Export;
 import aQute.bnd.annotation.Version;

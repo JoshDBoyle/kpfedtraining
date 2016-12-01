@@ -13,7 +13,7 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-package kp-fed-training.core.filters;
+package kpfedtraining.core.filters;
 
 import java.io.IOException;
 
