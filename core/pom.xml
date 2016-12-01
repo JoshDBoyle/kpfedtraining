@@ -132,5 +132,12 @@
             <groupId>junit-addons</groupId>
             <artifactId>junit-addons</artifactId>
         </dependency>
+        <dependency>
+			    <groupId>com.adobe.aem</groupId>
+			    <artifactId>uber-jar</artifactId>
+			    <version>6.1.0</version>
+			    <classifier>obfuscated-apis</classifier>
+			    <scope>provided</scope>
+			</dependency>
     </dependencies>
 </project>
